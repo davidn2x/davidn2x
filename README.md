@@ -1,5 +1,5 @@
 ## Hi there, I'm David
-<a href="www.linkedin.com/in/david-nunez-20440427b">
+www.linkedin.com/in/david-nunez-20440427b
 
 [Brief Introduction]
 
@@ -9,5 +9,6 @@ I am currently working on getting my certificates to enter into the world of cyb
 
 
 My journey with technology has led me to develop a passion for cyber security, and I am super eager of whats to come, aiming to join a tech company as a data or security analyst.
-<!--
+
 ##Skills
+I am currently building my skill but for the moment I have no skills that pertain to cyber as of yet.
